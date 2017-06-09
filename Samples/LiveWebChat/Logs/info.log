@@ -1,0 +1,9 @@
+2017-06-09 19:41:59,671 [46336] INFO  SuperWebSocket - The server instance SuperWebSocket has been started!
+2017-06-09 19:42:37,879 [50736] INFO  SuperWebSocket - Session: 3ba73aef-b45b-4ca2-8d39-575b70e7e8db/127.0.0.1:61027
+A new session connected!
+2017-06-09 19:42:59,732 [50736] INFO  SuperWebSocket - Session: 11bad4aa-e6a5-4922-9b1c-4006ccbf963b/127.0.0.1:61185
+A new session connected!
+2017-06-09 19:47:12,911 [39900] INFO  SuperWebSocket - Session: d6566b99-b360-4245-a953-66431b42d977/127.0.0.1:62147
+A new session connected!
+2017-06-09 19:47:35,073 [35084] INFO  SuperWebSocket - Session: d6566b99-b360-4245-a953-66431b42d977/127.0.0.1:62147
+This session was closed for ClientClosing!

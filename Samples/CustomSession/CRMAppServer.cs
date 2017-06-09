@@ -13,5 +13,10 @@ namespace SuperWebSocket.Samples.CustomSession
         {
 
         }
+
+        public override bool Start()
+        {
+            return base.Start();
+        }
     }
 }

@@ -14,5 +14,6 @@ namespace SuperWebSocket.Samples.JsonCommandAssembly.Command
             //Send the received message back to client
             SendJsonMessage(session, commandInfo);
         }
+        
     }
 }

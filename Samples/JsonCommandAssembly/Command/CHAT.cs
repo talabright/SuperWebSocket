@@ -15,6 +15,7 @@ namespace SuperWebSocket.Samples.JsonCommandAssembly.Command
     {
         protected override void ExecuteJsonCommand(WebSocketSession session, ChatMessage commandInfo)
         {
+            
             //Save to database or despacth to other session?
         }
     }

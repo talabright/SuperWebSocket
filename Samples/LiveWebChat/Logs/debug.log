@@ -1,0 +1,33 @@
+2017-06-09 19:31:54,066 [21824] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been created!
+2017-06-09 19:31:54,141 [21824] DEBUG SuperWebSocket - SubProtocol Basic found the commands below:
+
+2017-06-09 19:31:54,172 [21824] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been initialized!
+2017-06-09 19:34:57,596 [27804] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been created!
+2017-06-09 19:34:57,649 [27804] DEBUG SuperWebSocket - SubProtocol Basic found the commands below:
+
+2017-06-09 19:34:57,672 [27804] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been initialized!
+2017-06-09 19:38:11,853 [44068] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been created!
+2017-06-09 19:38:11,898 [44068] DEBUG SuperWebSocket - SubProtocol Basic found the commands below:
+
+2017-06-09 19:38:11,922 [44068] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been initialized!
+2017-06-09 19:39:24,218 [38928] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been created!
+2017-06-09 19:39:24,270 [38928] DEBUG SuperWebSocket - SubProtocol Basic found the commands below:
+
+2017-06-09 19:39:24,296 [38928] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been initialized!
+2017-06-09 19:39:37,057 [44456] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been created!
+2017-06-09 19:39:37,114 [44456] DEBUG SuperWebSocket - SubProtocol Basic found the commands below:
+
+2017-06-09 19:39:37,140 [44456] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been initialized!
+2017-06-09 19:39:50,275 [22460] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been created!
+2017-06-09 19:39:50,335 [22460] DEBUG SuperWebSocket - SubProtocol Basic found the commands below:
+
+2017-06-09 19:39:50,359 [22460] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been initialized!
+2017-06-09 19:41:56,870 [46336] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been created!
+2017-06-09 19:41:56,922 [46336] DEBUG SuperWebSocket - SubProtocol Basic found the commands below:
+
+2017-06-09 19:41:56,948 [46336] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been initialized!
+2017-06-09 19:41:59,642 [46336] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-09 19:41:59,642 [46336] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-09 19:41:59,670 [46336] DEBUG SuperWebSocket - Listener (0.0.0.0:8080) was started
+2017-06-09 19:41:59,670 [46336] DEBUG SuperWebSocket - Listener (0.0.0.0:4502) was started
+2017-06-09 19:41:59,674 [46336] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
